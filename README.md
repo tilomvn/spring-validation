@@ -1,2 +1,2 @@
 # Spring Validation
-* Demostration Spring Validation Starter
+* Demonstration Spring Validation Starter
